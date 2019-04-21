@@ -1,9 +1,4 @@
 spring:
-  application:
-    name: gms-product-server
-  cloud:
-    zookeeper:
-      connect-string: zk.lucky.dj:2181
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://db.lucky.dj:3306/item?autoReconnect=true&useSSL=false
