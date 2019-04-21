@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://db.lucky.dj:3306/item?autoReconnect=true&useSSL=false
-    username: root
-    password: 123456
