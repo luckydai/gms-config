@@ -4,3 +4,5 @@ spring:
     url: jdbc:mysql://db.lucky.dj:3306/order?useSSL=false
     username: root
     password: 123456
+  profiles:
+    active: dev
